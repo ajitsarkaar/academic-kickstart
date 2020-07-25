@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Custom"
+
+# Optional Google font URL
+google_fonts = "Josefin+Slab:wght@700&family=PT+Mono&family=PT+Sans+Caption&family=Philosopher:wght@700"
+
+# Font families
+heading_font = "PT Mono"
+body_font = "PT Mono"
+nav_font = "PT Mono"
+mono_font = "PT Mono"

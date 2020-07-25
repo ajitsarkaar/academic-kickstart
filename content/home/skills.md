@@ -15,22 +15,40 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  icon = "keyboard"
+  icon_pack = "fas"
+  name = "Programming Languages"
+  description = """Python: ⭐⭐⭐⭐⭐
+  \nC++: ⭐⭐⭐
+  \nMATLAB: ⭐⭐⭐⭐
+  \nJava: ⭐⭐
+  \nSwift: ⭐⭐⭐
+  \nJavaScript: ⭐⭐⭐
+  \nSQL: ⭐⭐⭐"""
   
 [[feature]]
-  icon = "chart-line"
+  icon = "cubes"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Frameworks"
+  description = """NumPy: ⭐⭐⭐⭐⭐
+  \nOpenCV: ⭐⭐⭐⭐⭐
+  \nPyTorch: ⭐⭐⭐⭐⭐
+  \nTensorFlow: ⭐⭐
+  \nMXNet: ⭐⭐⭐
+  \nROS: ⭐⭐
+  \nLaTeX: ⭐⭐"""
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "tools"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Tools"
+  description = """Git: ⭐⭐⭐⭐
+  \nSublime: ⭐⭐⭐⭐⭐
+  \nPyCharm: ⭐⭐⭐
+  \nEclipse: ⭐⭐⭐
+  \nXCode: ⭐⭐⭐⭐
+  \nPentaho DI: ⭐⭐⭐
+  \nUnity: ⭐⭐"""
 
 # Uncomment to use emoji icons.
 # [[feature]]
