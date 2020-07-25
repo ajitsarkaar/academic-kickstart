@@ -11,7 +11,7 @@ date: 2020-07-19T13:27:15-04:00
 weight: 50
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://drive.google.com/file/d/1_ecikNFegHPDFmA3oVqjGoEq0TqOhZ3_/view"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

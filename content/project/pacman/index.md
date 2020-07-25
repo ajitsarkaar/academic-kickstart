@@ -11,7 +11,7 @@ date: 2020-07-19T13:27:24-04:00
 weight: 100
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "http://courses.cs.vt.edu/cs4804/Fall18/hw5.html"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
