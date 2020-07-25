@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "FaceNet: Learning an embedding for facial recognition, verification and clustering"
-summary: "Implementation of FaceNet (Google Research), a deep convolutional neural network based on the Zeiler and Fergus architecture
-to learn unified embeddings for faces in Python using Tensorflow and Keras"
+summary: "This is an implementation of FaceNet (Google Research), a deep convolutional neural network based on the Zeiler and Fergus architecture
+to learn unified embeddings for faces in Python using Tensorflow and Keras."
 authors: [Ajit Sarkaar]
 tags: []
 categories: [Computer Vision, Deep Learning]

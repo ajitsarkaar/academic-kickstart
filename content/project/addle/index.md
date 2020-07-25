@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Addle: Quiz your friends"
-summary: "Released an application on the iOS app store written in Swift, which turns images into jigsaw puzzles and allows 
-friends to play against each other"
+summary: "Built and released a fun image processing application on the iOS app store written in Swift, which turns images into jigsaw puzzles and allows 
+friends to play against each other. Allowed Facebook users to become friends and play against each other."
 authors: []
 tags: []
 categories: []

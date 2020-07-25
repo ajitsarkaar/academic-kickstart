@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "ECE4524: Artificial Intelligence"
-summary: "Head Teaching Assistant for the course ECE4524 Artificial Intelligence and Engineering Applications. Responsible for the design of Python coding projects (based on UC Berkeley’s CS188 projects) and practical coursework for students"
+summary: "Also served as the TA for the course ECE4524 Artificial Intelligence and Engineering Applications for the Spring 2019 and Spring 2020 semesters. Responsible for the design of Python coding projects (based on UC Berkeley’s CS188 projects) and practical coursework for students"
 authors: []
 tags: []
 categories: []

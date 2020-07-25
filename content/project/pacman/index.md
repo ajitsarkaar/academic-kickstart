@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Pacman: Capture the Flag"
-summary: "Designed a Pacman playing artificial intelligence agent which uses adversarial search techniques, reinforcement learning and bayesian
-inference to play the capture the flag edition of the game"
+summary: "Designed an artificial intelligence agent for the Pacman game which uses adversarial search techniques, reinforcement learning and bayesian
+inference to play the capture the flag against others. Was one of the top performers in the contest held for VTCS4804"
 authors: []
 tags: []
 categories: []

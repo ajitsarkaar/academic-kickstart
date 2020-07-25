@@ -2,8 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Paraphrase Matching of Natural Language Questions"
-summary: "Proposed and implemented two recurrent architectures for semantic matching of sentences using both LSTMs and Bi-LSTMs.
-The best model achieved a comparable F1-measure to state of the art for this task on the Quora question pairs dataset."
+summary: "Quora released a dataset to detect duplicate questions on the platform. To solve sentence matching task, I came up with and implemented two deep recurrent architectures for semantic matching of sentences using LSTMs and Bi-LSTMs. The best model achieved a comparable F1-measure to SoTA for this task on the Quora question pairs dataset."
 authors: []
 tags: ["Latex", "PyTorch", "Pandas"]
 categories: ["Latex", "PyTorch", "Pandas"]

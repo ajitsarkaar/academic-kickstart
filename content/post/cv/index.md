@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "ECE4554/5554: Computer Vision"
-summary: "Teaching Assistant for the graduate course ECE4554/5554 Computer Vision with over 160 students. Helping and evaluating students with course assignments in Python and OpenCV"
+summary: "I was a Teaching Assistant for the graduate course ECE4554/5554 Computer Vision with over 160 students. I help and evaluated students with core concepts and course assignments in Python and OpenCV during the Fall semester."
 authors: []
 tags: []
 categories: []
